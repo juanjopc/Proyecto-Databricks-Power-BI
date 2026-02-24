@@ -1,0 +1,263 @@
+﻿city,state,county,Id
+Swampscott,Massachusetts,Essex County,1
+Boston,Massachusetts,Suffolk County,2
+Billerica,Massachusetts,Middlesex County,3
+Lowell,Massachusetts,Middlesex County,4
+Millbury,Massachusetts,Worcester County,5
+Auburn,Massachusetts,Worcester County,6
+Hamilton,Massachusetts,Essex County,7
+Westfield,Massachusetts,Hampden County,8
+Taunton,Massachusetts,Bristol County,9
+Medfield,Massachusetts,Norfolk County,10
+Amesbury,Massachusetts,Essex County,11
+Middleborough,Massachusetts,Plymouth County,12
+South Hadley,Massachusetts,Hampshire County,13
+Whitman,Massachusetts,Plymouth County,14
+Clinton,Massachusetts,Worcester County,15
+Lawrence,Massachusetts,Essex County,16
+Tisbury,Massachusetts,Dukes County,17
+New Bedford,Massachusetts,Bristol County,18
+Chelsea,Massachusetts,Suffolk County,19
+Leominster,Massachusetts,Worcester County,20
+Brockton,Massachusetts,Plymouth County,21
+Newton,Massachusetts,Middlesex County,22
+Bernardston,Massachusetts,Franklin County,23
+Somerville,Massachusetts,Middlesex County,24
+Marlborough,Massachusetts,Middlesex County,25
+Worcester,Massachusetts,Worcester County,26
+Vineyard Haven,Massachusetts,Dukes County,27
+Hudson,Massachusetts,Middlesex County,28
+Medford,Massachusetts,Middlesex County,29
+Chicopee,Massachusetts,Hampden County,30
+Southbridge,Massachusetts,Worcester County,31
+Framingham,Massachusetts,Middlesex County,32
+Oxford,Massachusetts,Worcester County,33
+Mansfield Center,Massachusetts,Bristol County,34
+Randolph,Massachusetts,Norfolk County,35
+Wakefield,Massachusetts,Middlesex County,36
+Ware,Massachusetts,Hampshire County,37
+Middleton,Massachusetts,Essex County,38
+Fall River,Massachusetts,Bristol County,39
+Norton,Massachusetts,Bristol County,40
+Cheshire,Massachusetts,Berkshire County,41
+Plymouth,Massachusetts,Plymouth County,42
+West Newbury,Massachusetts,Essex County,43
+Plainville,Massachusetts,Norfolk County,44
+Fairhaven,Massachusetts,Bristol County,45
+Weymouth,Massachusetts,Norfolk County,46
+Scituate,Massachusetts,Plymouth County,47
+Sutton,Massachusetts,Worcester County,48
+Tyngsborough,Massachusetts,Middlesex County,49
+Dracut,Massachusetts,Middlesex County,50
+Leicester,Massachusetts,Worcester County,51
+Haverhill,Massachusetts,Essex County,52
+Everett,Massachusetts,Middlesex County,53
+Amherst,Massachusetts,Hampshire County,54
+Springfield,Massachusetts,Hampden County,55
+Northbridge,Massachusetts,Worcester County,56
+West Springfield,Massachusetts,Hampden County,57
+Salem,Massachusetts,Essex County,58
+Dennis Port,Massachusetts,Barnstable County,59
+Swansea,Massachusetts,Bristol County,60
+Harwich,Massachusetts,Barnstable County,61
+Mattapoisett,Massachusetts,Plymouth County,62
+Barnstable,Massachusetts,Barnstable County,63
+Athol,Massachusetts,Worcester County,64
+Malden,Massachusetts,Middlesex County,65
+Dartmouth,Massachusetts,Bristol County,66
+Natick,Massachusetts,Middlesex County,67
+West Concord,Massachusetts,Middlesex County,68
+Woburn,Massachusetts,Middlesex County,69
+Pepperell,Massachusetts,Middlesex County,70
+Westford,Massachusetts,Middlesex County,71
+East Bridgewater,Massachusetts,Plymouth County,72
+Belmont,Massachusetts,Middlesex County,73
+Lexington,Massachusetts,Middlesex County,74
+West Wareham,Massachusetts,Plymouth County,75
+Andover,Massachusetts,Essex County,76
+Blackstone,Massachusetts,Worcester County,77
+Bourne,Massachusetts,Barnstable County,78
+Stoughton,Massachusetts,Norfolk County,79
+Barre,Massachusetts,Worcester County,80
+Charlton,Massachusetts,Worcester County,81
+Shirley,Massachusetts,Middlesex County,82
+East Brookfield,Massachusetts,Worcester County,83
+Winthrop,Massachusetts,Suffolk County,84
+Lynn,Massachusetts,Essex County,85
+Deerfield,Massachusetts,Franklin County,86
+Gardner,Massachusetts,Worcester County,87
+Cordaville,Massachusetts,Worcester County,88
+Watertown,Massachusetts,Middlesex County,89
+Acton,Massachusetts,Middlesex County,90
+Beverly,Massachusetts,Essex County,91
+Great Barrington,Massachusetts,Berkshire County,92
+Spencer,Massachusetts,Worcester County,93
+Waltham,Massachusetts,Middlesex County,94
+Tyringham,Massachusetts,Berkshire County,95
+Sudbury,Massachusetts,Middlesex County,96
+Holliston,Massachusetts,Middlesex County,97
+North Andover,Massachusetts,Essex County,98
+Acushnet,Massachusetts,Bristol County,99
+Marblehead,Massachusetts,Essex County,100
+Gloucester,Massachusetts,Essex County,101
+Ashland,Massachusetts,Middlesex County,102
+Reading,Massachusetts,Middlesex County,103
+Boxford,Massachusetts,Essex County,104
+Chelmsford,Massachusetts,Middlesex County,105
+Pittsfield,Massachusetts,Berkshire County,106
+Milton,Massachusetts,Norfolk County,107
+Hopedale,Massachusetts,Worcester County,108
+Mansfield,Massachusetts,Bristol County,109
+Medway,Massachusetts,Norfolk County,110
+Stoneham,Massachusetts,Middlesex County,111
+Buzzards Bay,Massachusetts,Barnstable County,112
+Revere,Massachusetts,Suffolk County,113
+Quincy,Massachusetts,Norfolk County,114
+Groveland,Massachusetts,Essex County,115
+Easton,Massachusetts,Bristol County,116
+Cambridge,Massachusetts,Middlesex County,117
+Millis,Massachusetts,Norfolk County,118
+Peabody,Massachusetts,Essex County,119
+Wales,Massachusetts,Hampden County,120
+Templeton,Massachusetts,Worcester County,121
+Newburyport,Massachusetts,Essex County,122
+Wilmington,Massachusetts,Middlesex County,123
+Hull,Massachusetts,Plymouth County,124
+Needham,Massachusetts,Norfolk County,125
+Brimfield,Massachusetts,Hampden County,126
+Burlington,Massachusetts,Middlesex County,127
+Southwick,Massachusetts,Hampden County,128
+Forestdale,Massachusetts,Barnstable County,129
+Methuen,Massachusetts,Essex County,130
+Ludlow,Massachusetts,Hampden County,131
+Marshfield,Massachusetts,Plymouth County,132
+North Attleborough,Massachusetts,Bristol County,133
+Norwood,Massachusetts,Norfolk County,134
+Somerset,Massachusetts,Bristol County,135
+Groton,Massachusetts,Middlesex County,136
+Westport,Massachusetts,Bristol County,137
+Sandwich,Massachusetts,Barnstable County,138
+Holyoke,Massachusetts,Hampden County,139
+Northampton,Massachusetts,Hampshire County,140
+Bedford,Massachusetts,Middlesex County,141
+Weston,Massachusetts,Middlesex County,142
+Longmeadow,Massachusetts,Hampden County,143
+Ocean Bluff-Brant Rock,Massachusetts,Plymouth County,144
+Grafton,Massachusetts,Worcester County,145
+Foxborough,Massachusetts,Norfolk County,146
+Westwood,Massachusetts,Norfolk County,147
+Phillipston,Massachusetts,Worcester County,148
+Tewksbury,Massachusetts,Middlesex County,149
+Dudley,Massachusetts,Worcester County,150
+Milford,Massachusetts,Worcester County,151
+Hanover,Massachusetts,Plymouth County,152
+Norton Center,Massachusetts,Bristol County,153
+Hingham,Massachusetts,Plymouth County,154
+Monson,Massachusetts,Hampden County,155
+Rehoboth,Massachusetts,Bristol County,156
+Hatfield,Massachusetts,Hampshire County,157
+West Boylston,Massachusetts,Worcester County,158
+Dedham,Massachusetts,Norfolk County,159
+Lincoln,Massachusetts,Middlesex County,160
+North Brookfield,Massachusetts,Worcester County,161
+Falmouth,Massachusetts,Barnstable County,162
+Acushnet Center,Massachusetts,Bristol County,163
+Saugus,Massachusetts,Essex County,164
+North Reading,Massachusetts,Middlesex County,165
+Agawam,Massachusetts,Hampden County,166
+Concord,Massachusetts,Middlesex County,167
+Yarmouth,Massachusetts,Barnstable County,168
+Danvers,Massachusetts,Essex County,169
+Norfolk,Massachusetts,Norfolk County,170
+Provincetown,Massachusetts,Barnstable County,171
+Rockland,Massachusetts,Plymouth County,172
+Stockbridge,Massachusetts,Berkshire County,173
+Brookline,Massachusetts,Norfolk County,174
+Truro,Massachusetts,Barnstable County,175
+Adams,Massachusetts,Berkshire County,176
+Pembroke,Massachusetts,Plymouth County,177
+Attleboro,Massachusetts,Bristol County,178
+Wellfleet,Massachusetts,Barnstable County,179
+Pinehurst,Massachusetts,Middlesex County,180
+Merrimac,Massachusetts,Essex County,181
+West Bridgewater,Massachusetts,Plymouth County,182
+Webster,Massachusetts,Worcester County,183
+Melrose,Massachusetts,Middlesex County,184
+Kingston,Massachusetts,Plymouth County,185
+Holbrook,Massachusetts,Norfolk County,186
+Walpole,Massachusetts,Norfolk County,187
+Mashpee,Massachusetts,Barnstable County,188
+Hadley,Massachusetts,Hampshire County,189
+Winchester,Massachusetts,Middlesex County,190
+East Harwich,Massachusetts,Barnstable County,191
+Eastham,Massachusetts,Barnstable County,192
+Amherst Center,Massachusetts,Hampshire County,193
+Millville,Massachusetts,Worcester County,194
+Lynnfield,Massachusetts,Essex County,195
+Weweantic,Massachusetts,Plymouth County,196
+Boylston,Massachusetts,Worcester County,197
+Northfield,Massachusetts,Franklin County,198
+Braintree,Massachusetts,Norfolk County,199
+Westborough,Massachusetts,Worcester County,200
+Franklin,Massachusetts,Norfolk County,201
+South Yarmouth,Massachusetts,Barnstable County,202
+Brewster,Massachusetts,Barnstable County,203
+Hubbardston,Massachusetts,Worcester County,204
+Erving,Massachusetts,Franklin County,205
+Sterling,Massachusetts,Worcester County,206
+Uxbridge,Massachusetts,Worcester County,207
+Dover,Massachusetts,Norfolk County,208
+Ashfield,Massachusetts,Franklin County,209
+Ashburnham,Massachusetts,Worcester County,210
+Wayland,Massachusetts,Middlesex County,211
+Dalton,Massachusetts,Berkshire County,212
+East Sandwich,Massachusetts,Barnstable County,213
+Shrewsbury,Massachusetts,Worcester County,214
+Holden,Massachusetts,Worcester County,215
+Winchendon,Massachusetts,Worcester County,216
+Bridgewater,Massachusetts,Plymouth County,217
+Arlington,Massachusetts,Middlesex County,218
+Wellesley,Massachusetts,Norfolk County,219
+Wilbraham,Massachusetts,Hampden County,220
+Townsend,Massachusetts,Middlesex County,221
+Turners Falls,Massachusetts,Franklin County,222
+Seekonk,Massachusetts,Bristol County,223
+Dennis,Massachusetts,Barnstable County,224
+Abington,Massachusetts,Plymouth County,225
+Hinsdale,Massachusetts,Berkshire County,226
+Wrentham,Massachusetts,Norfolk County,227
+South Dennis,Massachusetts,Barnstable County,228
+North Lakeville,Massachusetts,Plymouth County,229
+Greenfield,Massachusetts,Franklin County,230
+Belchertown,Massachusetts,Hampshire County,231
+Lunenburg,Massachusetts,Worcester County,232
+Warren,Massachusetts,Worcester County,233
+North Amherst,Massachusetts,Hampshire County,234
+Wareham,Massachusetts,Plymouth County,235
+Northborough,Massachusetts,Worcester County,236
+Southborough,Massachusetts,Worcester County,237
+Essex,Massachusetts,Essex County,238
+Sturbridge,Massachusetts,Worcester County,239
+Hopkinton,Massachusetts,Middlesex County,240
+Berkley,Massachusetts,Bristol County,241
+Manchester-by-the-Sea,Massachusetts,Essex County,242
+Raynham,Massachusetts,Bristol County,243
+South Deerfield,Massachusetts,Franklin County,244
+Orange,Massachusetts,Franklin County,245
+Chesterfield,Massachusetts,Hampshire County,246
+Easthampton,Massachusetts,Hampshire County,247
+Montague,Massachusetts,Franklin County,248
+Nantucket,Massachusetts,Nantucket County,249
+Norwell,Massachusetts,Plymouth County,250
+North Plymouth,Massachusetts,Plymouth County,251
+Fitchburg,Massachusetts,Worcester County,252
+Bellingham,Massachusetts,Norfolk County,253
+Ashby,Massachusetts,Middlesex County,254
+Canton,Massachusetts,Norfolk County,255
+Cohasset,Massachusetts,Norfolk County,256
+Oak Bluffs,Massachusetts,Dukes County,257
+Fiskdale,Massachusetts,Worcester County,258
+Berlin,Massachusetts,Worcester County,259
+Bolton,Massachusetts,Worcester County,260
+Mendon,Massachusetts,Worcester County,261
+Stow,Massachusetts,Middlesex County,262
