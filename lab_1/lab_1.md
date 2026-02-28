@@ -1,3 +1,5 @@
+En este proyecto realizaremos un análisis completo de los **costos de consultas médicas** de pacientes. Aprenderemos a construir un flujo de datos (ETL) desde cero utilizando **Databricks** con la arquitectura Medallón (Bronze, Silver, Gold) y PySpark para limpiar y transformar los datos. Finalmente, conectaremos nuestros datos ya procesados a **Power BI** para crear un dashboard interactivo que nos permitirá analizar los costos por edad, género y aseguradora.
+
 ### 📜 1. Librerías
 [[05:15]](https://www.youtube.com/watch?v=Q_a4ZoAWY9M&t=5m15s) Importamos las funciones de PySpark para transformar datos.
 * [[05:21]](https://www.youtube.com/watch?v=Q_a4ZoAWY9M&t=5m21s) `from pyspark.sql.functions import *`
@@ -81,3 +83,4 @@
    * **Leyenda:** `appointment_cost_tier`.
    * **Valores:** Recuento de `appointmentId`.
    * *(Opcional)* Ir a formato y personalizar los colores: 🟢 low, 🟡 medium, 🟠 high, 🔴 critical.
+
